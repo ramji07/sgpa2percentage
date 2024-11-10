@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+
+
+# Sitemap location
+Sitemap: https://sgpa2percentage.com/sitemap.xml
